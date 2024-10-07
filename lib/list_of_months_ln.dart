@@ -445,3 +445,67 @@ List<dynamic> listMonths_id_ID = [
   {"id": 11, "value": "November"},
   {"id": 12, "value": "Desember"}
 ];
+
+///list of months , nb_NO
+List<dynamic> listMonths_nb_NO = [
+  {"id": 1, "value": "Januar"},
+  {"id": 2, "value": "Februar"},
+  {"id": 3, "value": "Mars"},
+  {"id": 4, "value": "April"},
+  {"id": 5, "value": "Mai"},
+  {"id": 6, "value": "Juni"},
+  {"id": 7, "value": "Juli"},
+  {"id": 8, "value": "August"},
+  {"id": 9, "value": "September"},
+  {"id": 10, "value": "Oktober"},
+  {"id": 11, "value": "November"},
+  {"id": 12, "value": "Desember"}
+];
+
+///list of months , da_DK
+List<dynamic> listMonths_da_DK = [
+  {"id": 1, "value": "Januar"},
+  {"id": 2, "value": "Februar"},
+  {"id": 3, "value": "Marts"},
+  {"id": 4, "value": "April"},
+  {"id": 5, "value": "Maj"},
+  {"id": 6, "value": "Juni"},
+  {"id": 7, "value": "Juli"},
+  {"id": 8, "value": "August"},
+  {"id": 9, "value": "September"},
+  {"id": 10, "value": "Oktober"},
+  {"id": 11, "value": "November"},
+  {"id": 12, "value": "December"}
+];
+
+///list of months , is
+List<dynamic> listMonths_is = [
+  {"id": 1, "value": "Janúar"},
+  {"id": 2, "value": "Febrúar"},
+  {"id": 3, "value": "Mars"},
+  {"id": 4, "value": "Apríl"},
+  {"id": 5, "value": "Maí"},
+  {"id": 6, "value": "Júní"},
+  {"id": 7, "value": "Júlí"},
+  {"id": 8, "value": "Ágúst"},
+  {"id": 9, "value": "September"},
+  {"id": 10, "value": "Október"},
+  {"id": 11, "value": "Nóvember"},
+  {"id": 12, "value": "Desember"}
+];
+
+///list of months , fi_FI
+List<dynamic> listMonths_fi = [
+  {"id": 1, "value": "Tammikuu"},
+  {"id": 2, "value": "Helmikuu"},
+  {"id": 3, "value": "Maaliskuu"},
+  {"id": 4, "value": "Huhtikuu"},
+  {"id": 5, "value": "Toukokuu"},
+  {"id": 6, "value": "Kesäkuu"},
+  {"id": 7, "value": "Heinäkuu"},
+  {"id": 8, "value": "Elokuu"},
+  {"id": 9, "value": "Syyskuu"},
+  {"id": 10, "value": "Lokakuu"},
+  {"id": 11, "value": "Marraskuu"},
+  {"id": 12, "value": "Joulukuu"}
+];
